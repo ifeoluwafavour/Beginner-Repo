@@ -30,4 +30,6 @@ Format
 
 ## [Aryan Patel](https://github.com/patelaryan7751/)
 
+## [Ifeoluwa Favour](https://github.com/ifeoluwafavour)
+
 
